@@ -3,6 +3,15 @@
 En este ejemplo explicaré las bases para trabajar con un login y sesiones en React y Django. 
 Antes de empezar, [instala Compose](https://docs.docker.com/compose/install/).
 
+### Formulario login
+![Alt text](login.png)
+
+### Formulario logged
+![Alt text](logged.png)
+
+### Formulario register
+![Alt text](register.png)
+
 ### Software utilizado
 
 ```
